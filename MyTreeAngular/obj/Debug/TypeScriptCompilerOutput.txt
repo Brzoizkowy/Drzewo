@@ -1,0 +1,10 @@
+c:\users\brzozikowy\documents\visual studio 2015\Projects\MyTreeAngular\MyTreeAngular\app\utils\HttpHelpers.js
+c:\users\brzozikowy\documents\visual studio 2015\Projects\MyTreeAngular\MyTreeAngular\app\utils\HttpHelpers.js.map
+c:\users\brzozikowy\documents\visual studio 2015\Projects\MyTreeAngular\MyTreeAngular\app\services\app.service.todolist.js
+c:\users\brzozikowy\documents\visual studio 2015\Projects\MyTreeAngular\MyTreeAngular\app\services\app.service.todolist.js.map
+c:\users\brzozikowy\documents\visual studio 2015\Projects\MyTreeAngular\MyTreeAngular\app\components\todolist\todolist.component.js
+c:\users\brzozikowy\documents\visual studio 2015\Projects\MyTreeAngular\MyTreeAngular\app\components\todolist\todolist.component.js.map
+c:\users\brzozikowy\documents\visual studio 2015\Projects\MyTreeAngular\MyTreeAngular\app\boottodolist.js
+c:\users\brzozikowy\documents\visual studio 2015\Projects\MyTreeAngular\MyTreeAngular\app\boottodolist.js.map
+c:\users\brzozikowy\documents\visual studio 2015\Projects\MyTreeAngular\MyTreeAngular\Scripts\Enums.js
+c:\users\brzozikowy\documents\visual studio 2015\Projects\MyTreeAngular\MyTreeAngular\Scripts\Enums.js.map
